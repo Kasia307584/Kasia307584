@@ -1,37 +1,34 @@
 ### Hi there, I'm Katarzyna 👋
-
-<p align="center">
-  <b>Welcome to my GitHub profile!</b> <br>
-  Frontend Developer | React | JavaScript
-</p>
+## a Frontend Developer
 
 ---
 
 ### 🔥 About Me
 
-- 💻 Frontend Developer with a background in consulting
-- 🌍 Speaks **French, English and Polish**
-- ✨ Exploring **TypeScript, GraphQL, cloud technologies, backend and SQL**
+- 👩‍🎓 Recently graduated from OpenClassrooms with a Bachelor's JavaScript React Development
+- 💻 Background in digital transformation consulting
+- 🌍 Fluent in French, English and Polish
+- ✨ Exploring Backend with Node.js, Express and MongoDB, SQL, cloud technologies
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 Currently upskilling
+<p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
 
 ---
 
