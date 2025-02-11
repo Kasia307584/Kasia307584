@@ -1,5 +1,5 @@
 ### Hi there, I'm Katarzyna 👋
-#### a Frontend Developer
+##### a Frontend Developer
 
 ---
 
@@ -8,7 +8,7 @@
 - 👩‍🎓 Recently graduated from OpenClassrooms with a bachelor's degree in JavaScript React Development
 - 💻 Background in digital transformation consulting
 - 🌍 Fluent in French, English and Polish
-- ✨ Exploring backend (Node.js, Express, MongoDB), SQL, and cloud technologies
+- ✨ Exploring backend, SQL, and cloud technologies
 
 ---
 
@@ -40,13 +40,13 @@
 - 📚 [MonVieuxGrimoire - backend](https://github.com/Kasia307584/mon_vieux_grimoire-book-app--backend) - _Book collection and rating app with secure authentication in Node.js, Express and MongoDB_
 - 👩‍💻 [HRnet - frontend](https://github.com/Kasia307584/wealth_health-hr-app--frontend) - _An HR employee management system rebuilt from jQuery to React and Redux_
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasia307584&layout=compact&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kasia307584&show_icons=true&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasia307584&layout=compact&theme=transparent" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasia307584&show_icons=true&theme=radical" width="48%" />
 </p>
-
----
 
 
