@@ -5,10 +5,10 @@
 
 ### 🔥 About Me
 
-- 👩‍🎓 Recently graduated from OpenClassrooms with a bachelor's degree in JavaScript React Development
+- 👩‍🎓 Recently graduated from [OpenClassrooms](https://openclassrooms.com/en/) with a bachelor's degree in [JavaScript React Development](https://openclassrooms.com/en/paths/878-javascript-react-developer)
 - 💻 Background in digital transformation consulting
 - 🌍 Fluent in French, English and Polish
-- ✨ Exploring backend, SQL, and cloud technologies
+- ✨ Exploring backend, databases & SQL, cloud technologies
 
 ---
 
