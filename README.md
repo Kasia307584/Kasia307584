@@ -1,14 +1,15 @@
 ### Hi there, I'm Katarzyna 👋
+
 ##### a Frontend Developer
 
 ---
 
 ### 🔥 About Me
 
-- 👩‍🎓 Recently graduated from [OpenClassrooms](https://openclassrooms.com/en/) with a bachelor's degree in [JavaScript React Development](https://openclassrooms.com/en/paths/878-javascript-react-developer)
+- 👩‍🎓 Graduated last year with a bachelor's degree in [JavaScript React Development at OpenClassrooms](https://openclassrooms.com/en/paths/878-javascript-react-developer)
 - 💻 Background in digital transformation consulting
 - 🌍 Fluent in French, English and Polish
-- ✨ Exploring backend, databases & SQL, cloud technologies
+- ✨ Exploring backend, SQL and cloud technologies
 
 ---
 
@@ -25,6 +26,7 @@
 </p>
 
 #### Currently upskilling
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -48,5 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasia307584&layout=compact&theme=transparent" width="38%" />
   <img src="https://github-readme-stats.vercel.app/api?username=kasia307584&show_icons=true&theme=radical" width="48%" />
 </p>
-
-
