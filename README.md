@@ -46,7 +46,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasia307584&layout=compact&theme=transparent" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kasia307584&show_icons=true&theme=radical" width="48%" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasia307584&layout=compact&theme=transparent" width="48%" />
 </p>
