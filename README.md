@@ -47,5 +47,5 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasia307584&layout=compact&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasia307584&layout=compact&theme=transparent" width="38%" />
 </p>
