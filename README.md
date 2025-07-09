@@ -6,10 +6,9 @@
 
 ### 🔥 About Me
 
-- 👩‍🎓 Graduated last year with a bachelor's degree in [JavaScript React Development at OpenClassrooms](https://openclassrooms.com/en/paths/878-javascript-react-developer)
+- 👩‍🎓 Graduated recently with a bachelor's degree in [JavaScript React Development at OpenClassrooms](https://openclassrooms.com/en/paths/878-javascript-react-developer)
 - 💻 Background in digital transformation consulting
 - 🌍 Fluent in French, English and Polish
-- ✨ Exploring backend, SQL and cloud technologies
 
 ---
 
@@ -22,7 +21,6 @@
   <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 #### Currently upskilling
